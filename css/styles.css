@@ -1,0 +1,33 @@
+h1{ 
+ color:#ec07bd;
+ font-size:3rem;
+ }
+ 
+ 
+ body{
+ font-family: Arial, sans-serif 
+ }
+ 
+ nav{background-color: #0dd445;}
+ #home{
+  background-color: #0a802b;
+  } 
+  #about{
+  background-color: #c9c91a;
+  }
+  #packages{
+   background-color: #d91616;
+  }
+  .tour-card{
+   background-color: #eda4a4;}
+   #why us{
+    background-color: #eda4a4;
+    }
+    #contact{
+     background-color: #732a2a;
+     }
+     h1,h2,h3{line-height:2.2;}
+     nav a{margin-right:12px;}
+     
+     .intro{font-weight:normal;}
+     .intro{font-weight:bold;}
